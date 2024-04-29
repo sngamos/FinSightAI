@@ -1,0 +1,5 @@
+CONFIG FILE FOR SCRIPT
+STORES PATH TO CSV DUMP & INDICATORS OF INTEREST
+
+#csv_dump_path: [C:\Temasek Hackathon\team02submission\py_scripts\cleaner\csv_dump]
+#indicator_of_interest: [Total Revenue;EBITDA;EBITDA Margin;Basic EPS]
