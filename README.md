@@ -14,7 +14,7 @@ Using GenAI, we created a multi-document RAG retriever that can:
 2.	Provide year on year financial narrative on the key metrics.
 3.	Provide a multi-document QnA bot that can answer any further questions about the given documents accurate and form linkage between information between documents.
 
-Credits:
-Amos Sng
-Michael Hoon
-Ng Kin Meng
+Credits: <br/>
+Amos Sng <br/>
+Michael Hoon <br/>
+Ng Kin Meng <br/>
